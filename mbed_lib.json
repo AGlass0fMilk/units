@@ -1,0 +1,4 @@
+{
+    "name": "units",
+    "macros": ["UNIT_LIB_DISABLE_IOSTREAM=1"]
+}
